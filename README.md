@@ -1,2 +1,2 @@
-# ipl-win-probability-predictor
-A machine learning project to find out the win probability of an IPL match
+# IPL Predictor
+It is a machine learning project in which we can predict the result of the ongoing match using the previous matches data.  
