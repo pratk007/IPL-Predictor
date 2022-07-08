@@ -3,6 +3,8 @@ It is a machine learning project in which we can predict the result of the ongoi
 
 ## Tech Stack
 
+**Framework:** Streamlit
+
 **ML Model:** Sklearn Linear Model
 
 **ML Libraries:** Pandas, Numpy
