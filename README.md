@@ -29,7 +29,7 @@ To deploy this project,
 write the command in the terminal
 
 ```bash
-  streamline run app.py
+  streamlit run app.py
 ```
 
 After running it will directly open the project on your browser.
